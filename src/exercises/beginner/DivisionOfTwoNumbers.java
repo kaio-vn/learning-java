@@ -1,7 +1,7 @@
 package exercises.beginner;
 import java.util.Scanner;
 
-public class BeeCrowd1014 {
+public class DivisionOfTwoNumbers {
     public static void main (String[] args){
 
     Scanner sc = new Scanner (System.in);
