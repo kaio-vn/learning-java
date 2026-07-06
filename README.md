@@ -1,21 +1,25 @@
 # learning-java
 
-Repository created to document my Java learning journey.
+Repositório de exercícios de aprendizado de Java, feito durante minha transição de carreira para desenvolvimento.
+Java 25.0.2.
 
-## Topics
+## Progresso atual
 
-- Variables
-- Data Types
-- Operators
-- Input and Output
-- Conditionals
-- Loops
-- Arrays
-- Methods
-- Object-Oriented Programming
+- [x] Variáveis, tipos de dados, operadores
+- [x] Entrada e saída (Scanner)
+- [x] Condicionais
+- [x] Loops
+- [ ] Orientação a Objetos
+- [ ] Arrays
+- [ ] Métodos
 
-## Platforms
 
-- Beecrowd
-- Personal exercises
+## Estrutura
 
+- `beginner/` — exercícios introdutórios (variáveis, operadores, I/O)
+- `conditionals/` — exercícios de estruturas condicionais
+- `loops/` — exercícios de laços de repetição
+
+## Destaque
+
+Em progresso.
