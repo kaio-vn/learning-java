@@ -1,7 +1,7 @@
 package exercises.beginner;
 import java.util.Scanner;
 
-public class BeeCrowd1009 {
+public class SalaryAndComission {
     public static void main (String[] args){
 
     Scanner sc = new Scanner (System.in);
