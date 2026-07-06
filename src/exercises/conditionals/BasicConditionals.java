@@ -2,7 +2,7 @@ package exercises.conditionals;
 import java.util.Scanner;
 
 
-public class Conditionals01 {
+public class BasicConditionals {
     public static void main (String[] args){
 
     Scanner sc = new Scanner (System.in);
