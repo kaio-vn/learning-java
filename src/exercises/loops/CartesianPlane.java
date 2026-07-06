@@ -1,7 +1,7 @@
 package exercises.loops;
 import java.util.Scanner;
 
-public class BeeCrowd1115 {
+public class CartesianPlane {
     public static void main (String[] args){
 
         Scanner sc = new Scanner (System.in);

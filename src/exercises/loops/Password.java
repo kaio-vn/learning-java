@@ -1,7 +1,7 @@
 package exercises.loops;
 import java.util.Scanner;
 
-public class BeeCrowd1114 {
+public class Password {
     public static void main (String[] args){
 
         Scanner sc = new Scanner (System.in);

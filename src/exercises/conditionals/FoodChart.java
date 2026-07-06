@@ -1,7 +1,7 @@
 package exercises.conditionals;
 import java.util.Scanner;
 
-public class BeeCrowd1038 {
+public class FoodChart {
     public static void main (String[] args){
 
         Scanner sc = new Scanner (System.in);

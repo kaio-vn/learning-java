@@ -1,7 +1,7 @@
 package exercises.loops;
 import java.util.Scanner;
 
-public class BeeCrowd1134 {
+public class FuelType {
     public static void main (String[] args){
 
         Scanner sc = new Scanner (System.in);

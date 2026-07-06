@@ -1,7 +1,7 @@
 package exercises.loops;
 import java.util.Scanner;
 
-public class BeeCrowd1079 {
+public class NumbersAverage {
     public static void main (String []args){
 
         Scanner sc = new Scanner (System.in);
