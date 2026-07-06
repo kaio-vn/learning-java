@@ -1,25 +1,25 @@
 # learning-java
 
-Repositório de exercícios de aprendizado de Java, feito durante minha transição de carreira para desenvolvimento.
-Java 25.0.2.
+Repository of Java exercises, built during my career transition into software development.
+IntelliJ IDEA, Java 25.0.2.
 
-## Progresso atual
+## Current progress
 
-- [x] Variáveis, tipos de dados, operadores
-- [x] Entrada e saída (Scanner)
-- [x] Condicionais
+- [x] Variables, data types, operators
+- [x] Input and output (Scanner)
+- [x] Conditionals
 - [x] Loops
-- [ ] Orientação a Objetos
+- [ ] Object-Oriented Programming
 - [ ] Arrays
-- [ ] Métodos
+- [ ] Methods
 
 
-## Estrutura
+## Structure
 
-- `beginner/` — exercícios introdutórios (variáveis, operadores, I/O)
-- `conditionals/` — exercícios de estruturas condicionais
-- `loops/` — exercícios de laços de repetição
+- `beginner/` — introductory exercises (variables, operators, I/O)
+- `conditionals/` — conditional structure exercises
+- `loops/` — loop exercises
 
-## Destaque
+## Highlight
 
-Em progresso.
+In progress.
