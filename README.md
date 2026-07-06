@@ -1,7 +1,6 @@
 # learning-java
 
 Repository of Java exercises, built during my career transition into software development.
-IntelliJ IDEA, Java 25.0.2.
 
 ## Current progress
 
