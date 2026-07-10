@@ -1,17 +1,16 @@
 # learning-java
 
-Repository of Java exercises, built during my career transition into software development.
+My Java exercises personal repository, built during my software development studies.
 
 ## Current progress
 
 - [x] Variables, data types, operators
-- [x] Input and output (Scanner)
+- [x] Input and output 
 - [x] Conditionals
 - [x] Loops
 - [x] Object-Oriented Programming
 - [x] Arrays
 - [x] Methods
-
 
 ## Structure
 
