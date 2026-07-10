@@ -8,9 +8,9 @@ Repository of Java exercises, built during my career transition into software de
 - [x] Input and output (Scanner)
 - [x] Conditionals
 - [x] Loops
-- [ ] Object-Oriented Programming
-- [ ] Arrays
-- [ ] Methods
+- [x] Object-Oriented Programming
+- [x] Arrays
+- [x] Methods
 
 
 ## Structure
@@ -18,7 +18,5 @@ Repository of Java exercises, built during my career transition into software de
 - `beginner/` — introductory exercises (variables, operators, I/O)
 - `conditionals/` — conditional structure exercises
 - `loops/` — loop exercises
+- `arrays/` — arrays exercises
 
-## Highlight
-
-In progress.
